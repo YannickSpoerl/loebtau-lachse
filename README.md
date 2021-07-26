@@ -5,10 +5,6 @@
   </a>
 
   <h3 align="center"><a href="https://loebtau-lachse.de/">Loebtau-Lachse.de</a></h3>
-  <p align="center">
-  <img src="https://img.shields.io/github/license/yannickspoerl/loebtau-lachse"/>
-  <img src="https://img.shields.io/github/workflow/status/yannickspoerl/loebtau-lachse/Page%20Build"/>
-  </p>
   
   <p align="center">
     Website for the Löbtau-Lachse Frisbee Team
