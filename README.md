@@ -4,13 +4,13 @@
     <img src="https://github.com/YannickSpoerl/loebtau-lachse/blob/main/images/mstile-150x150.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center"><a href="https://loebtau-lachse.de/">Loebtau-Lachse.de</a></h3>
+  <h3 align="center"><a href="https://yannickspoerl.de/loebtau-lachse">Loebtau-Lachse</a></h3>
   
   <p align="center">
     Website for the Löbtau-Lachse Frisbee Team
     <br />
     <br />
-    <a href="https://loebtau-lachse.de">View</a>
+    <a href="https://yannickspoerl.de/loebtau-lachse">View</a>
     ·
     <a href="https://github.com/YannickSpoerl/loebtau-lachse/issues">Report Bug</a>
     ·

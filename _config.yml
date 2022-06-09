@@ -2,9 +2,8 @@
 title: Löbtau Lachse
 email: kontak@loebtau-lachse.de
 description: "Löbtau Lachse: Die sportliche Frisbee-Gemeinschaft aus Löbtau, Dresden."
-baseurl: ""
-url: "https://loebtau-lachse.de"
-twitter_username: yannickspoerl
+baseurl: "loebtau-lachse"
+url: "https://yannickspoerl.de/loebtau-lachse"
 github_username:  yannickspoerl
 
 # Build settings
