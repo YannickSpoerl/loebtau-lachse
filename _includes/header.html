@@ -1,14 +1,14 @@
 <header id="header" class="skel-layers-fixed">
-    <h1><a href="/#banner" class="site-title" >{{ site.title }}</a></h1>
+    <h1><a href="{{ '/#banner' | relative_url }}" class="site-title" >{{ site.title }}</a></h1>
     <nav id="nav">
         <ul>
-            <li><a href="/#banner">Home</a></li>
-            <li><a href="/#we">Wir</a></li>
-            <li><a href="/#news">News</a></li>
-            <li><a href="/#history">Unsere Geschichte</a></li>
-            <li><a href="/#matches">Aktuelle Saison</a></li>
+            <li><a href="{{ '/#banner' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/#we' | relative_url }}">Wir</a></li>
+            <li><a href="{{ '/#news' | relative_url }}">News</a></li>
+            <li><a href="{{ '/#history' | relative_url }}">Unsere Geschichte</a></li>
+            <li><a href="{{ '/#matches' | relative_url }}">Aktuelle Saison</a></li>
             <li><a href="mailto:kontakt@loebtau-lachse.de" class="button special">Werde Mitglied</a></li>
-            <li><a href="{{ '/en' | relative_url}}" class="button alt">English</a></li>
+            <li><a href="{{ '/en' | relative_url }}" class="button alt">English</a></li>
         </ul>
     </nav>
 </header>
